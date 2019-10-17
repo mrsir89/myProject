@@ -1,6 +1,9 @@
 Bitcamp Final Project
 SuperFarm (retail service)
 --------------------------------------------------------------------------------
+
+*RESTful API + MicroService Architecture = SUPER FARM🍎
+
 --------------------------------------------------------------------------------
 
 
