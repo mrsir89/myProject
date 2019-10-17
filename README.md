@@ -21,7 +21,7 @@ AdminPage(Metronic Templete, Bootstrap) = https://github.com/mrsir89/SuperFarmAd
 
 
 
-*Template(from steve) : medtronic_v3.8.1 ,  Admin Theme
+*Template : metronic_v3.8.1 ,  Admin Theme
 
 *참고 사이트
 삼다몰(롤모델) http://www.samdamall.com/
