@@ -1,21 +1,17 @@
 Bitcamp Final Project
 SuperFarm (retail service)
 --------------------------------------------------------------------------------
-
-
-
-Members
-김상우, 김수진, 김영록, 서강일, 심인선, 안수윤, 하양희
-
 --------------------------------------------------------------------------------
 
 
-*Github repository  
+* 각 부분별 Github repository  
+
 Backend = https://github.com/mrsir89/SuperFarm
 
 Frontend = https://github.com/mrsir89/SuperFarmClient
 
 AdminPage = https://github.com/mrsir89/SuperFarmAdmin
+
 
 --------------------------------------------------------------------------------
 
@@ -37,5 +33,5 @@ RESTful api CRUD   https://www.callicoder.com/spring-boot-rest-api-tuto
 Admin페이지 참고   http://gfreeplus.firstmall.kr/admin/main/index
 
 https://developer.mozilla.org/ko/
+
 https://www.w3schools.com/
-...# SuperFarmDocs
