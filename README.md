@@ -10,7 +10,7 @@ SUPER FARM (retail service)
 * 각 부분별 Github repository  
 
 
-Backend(Spring Boot, Maven, JPA, MySQL) = https://github.com/mrsir89/SuperFarm
+Backend(Spring Boot, Maven, Tomcat, MySQL) = https://github.com/mrsir89/SuperFarm
 
 Frontend(React, CSS, Java Script, Metronic Templete) = https://github.com/mrsir89/SuperFarmClient
 
