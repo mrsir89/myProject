@@ -1,19 +1,20 @@
 Bitcamp Final Project
-SuperFarm (retail service)
+SUPER FARM (retail service)
 --------------------------------------------------------------------------------
 
-*RESTful API + MicroService Architecture = SUPER FARM🍎
+* RESTful API + MicroService Architecture = SUPER FARM🍎
 
 --------------------------------------------------------------------------------
 
 
 * 각 부분별 Github repository  
 
-Backend = https://github.com/mrsir89/SuperFarm
 
-Frontend = https://github.com/mrsir89/SuperFarmClient
+Backend(Spring Boot, Maven, JPA, MySQL) = https://github.com/mrsir89/SuperFarm
 
-AdminPage = https://github.com/mrsir89/SuperFarmAdmin
+Frontend(React, CSS, Java Script, Metronic Templete) = https://github.com/mrsir89/SuperFarmClient
+
+AdminPage(Metronic Templete, Bootstrap) = https://github.com/mrsir89/SuperFarmAdmin
 
 
 --------------------------------------------------------------------------------
