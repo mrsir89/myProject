@@ -23,6 +23,12 @@ AdminPage(Metronic Templete, Bootstrap) = https://github.com/mrsir89/SuperFarmAd
 ![스크린샷 2019-10-19 오후 12 46 46](https://user-images.githubusercontent.com/40634798/67137394-5f8eda80-f26f-11e9-984f-2a5771e38c44.png)
 
 
+![스크린샷 2019-10-19 오후 12 46 59](https://user-images.githubusercontent.com/40634798/67137403-aed50b00-f26f-11e9-8124-474f19d097be.png)
+
+
+![스크린샷 2019-10-19 오후 12 48 58](https://user-images.githubusercontent.com/40634798/67137418-f6f42d80-f26f-11e9-98d8-a38d99565658.png)
+
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
